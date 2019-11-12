@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Dev.to top articles",
+    "short_name": "DevToTab",
+    "description": "A minimal extension that shows you top 12 articles published on dev.to in the last day",
+    "version": "1",
+    "author": "bristoll",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+
+    "browser_action": {
+      "default_icon": "devtoLogo.svg",
+      "default_title": "Dev.to top articles of the day"
+    },
+    "permissions": ["activeTab"]
+  }

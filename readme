@@ -1,0 +1,4 @@
+This project is a minimal backbone for a functional chrome extension. You can try it using chrome developer mode.
+You can find more information about chrome extension development on the oficial website: https://developer.chrome.com/extensions/devguide
+
+DevToTab show a top 12 articles from dev.to using their API evrytime you open a new tab.
